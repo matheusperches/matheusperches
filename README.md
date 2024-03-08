@@ -33,6 +33,8 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 ## [Python ML Study](https://github.com/matheusperches/ML-training-Study)
 - A fetal health prediction model made during my Software Architecture course.
 
+## [Auto-Installer](https://github.com/matheusperches/Auto-Installer)
+
 ## Next projects
 
 - To be added :) 
