@@ -30,12 +30,12 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 ## [PlaygroundProj](https://github.com/matheusperches/PlaygroundProj)
 - An Unreal Engine 4 project I worked with passion.
 
-## [Python ML Study](https://github.com/matheusperches/ML-training-Study)
+## [Fetal-Health-Study](https://github.com/matheusperches/Fetal-health-study)
 - A fetal health prediction model made during my Software Architecture course.
 
 ## [Auto-Installer](https://github.com/matheusperches/Auto-Installer)
 
-## [Fetal-Health-Study](https://github.com/matheusperches/Fetal-health-study)
+- An auto installer made with C# for one of the teams I worked with.
 
 ## Next projects
 
