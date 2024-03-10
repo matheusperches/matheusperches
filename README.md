@@ -37,7 +37,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 
 - An auto installer made with C# for one of the teams I worked with.
 
-## [Music Recommendation Model](ttps://github.com/matheusperches/MusicRecommendation)
+## [Music Recommendation Model](https://github.com/matheusperches/MusicRecommendation)
 
 - A Machine Learning model to predict music preferences based on age and gender.
 
