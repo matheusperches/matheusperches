@@ -27,19 +27,19 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 # Projects
  In this section you can get to know some of my personal projects.
 
-## [PlaygroundProj](https://github.com/matheusperches/PlaygroundProj)
-- An Unreal Engine 4 project I worked with passion.
-
 ## [Fetal-Health-Study](https://github.com/matheusperches/Fetal-health-study)
 - A fetal health prediction model made during my Software Architecture course.
+
+## [Music Recommendation Model](https://github.com/matheusperches/MusicRecommendation)
+
+- A Machine Learning model to predict music preferences based on age and gender.
 
 ## [Auto-Installer](https://github.com/matheusperches/Auto-Installer)
 
 - An auto installer made with C# for one of the teams I worked with.
 
-## [Music Recommendation Model](https://github.com/matheusperches/MusicRecommendation)
-
-- A Machine Learning model to predict music preferences based on age and gender.
+## [PlaygroundProj](https://github.com/matheusperches/PlaygroundProj)
+- An Unreal Engine 4 project I worked with passion.
 
 ## Next projects
 
