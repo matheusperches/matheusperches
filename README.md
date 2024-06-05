@@ -18,7 +18,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
     - Bachelor Degree
     - End date: 10/2022
 
-🧠 ## **Professional Summary**
+ ## 🧠 **Professional Summary**
 - Experienced Data Analyst with expertise in software quality assurance.
 - Developed and maintained Tableau dashboards for actionable insights.
 - Managed test data processes, ensuring integrity for 100+ manual test cases.
