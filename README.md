@@ -7,7 +7,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-perches/)
 
 
-## Education and work experience
+## 🧠 Education and work experience
 - Google Data Analytics Certificate
     - Completed on May 2024
 
@@ -18,7 +18,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
     - Bachelor Degree
     - End date: 10/2022
 
- ## 🧠 **Professional Summary**
+ ## 💼 **Professional Summary**
 - Experienced Data Analyst with expertise in software quality assurance.
 - Developed and maintained Tableau dashboards for actionable insights.
 - Managed test data processes, ensuring integrity for 100+ manual test cases.
@@ -29,7 +29,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 - Designed visual prototypes with HTML and CSS to enhance solution understanding.
 
 
-# Projects
+# 📝 Projects
  In this section you can get to know some of my personal projects.
 
  ## [Data Exploration - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
