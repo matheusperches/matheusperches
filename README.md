@@ -8,6 +8,9 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 
 
 ## Education and work experience
+- Google Data Analytics Certificate
+    - Completed on May 2024
+
 - Distributed Software Architecture at PUC Minas (Brazil)
     - Graduate Degree
     - End date: 03/2024
@@ -15,17 +18,22 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
     - Bachelor Degree
     - End date: 10/2022
 
-🧠 Almost 4 years of total experience as a Software Tester (QA), including experience on:
-- Writing user stories, functional documentation and bug reporting on Jira
-- Conceptualization of test plans using Tricentis's tools
-- Collaborating in a cross functional team
-- Leading team efforts and helping out less experienced colleagues 
-- Reporting to managers on test status by using industry-standard tools
-- Extensive E2E testing on complex e-commerce applications and internal company tools
+🧠 ## **Professional Summary**
+- Experienced Data Analyst with expertise in software quality assurance.
+- Developed and maintained Tableau dashboards for actionable insights.
+- Managed test data processes, ensuring integrity for 100+ manual test cases.
+- Proficient in SQL for data generation, validation, and complex queries.
+- Automated test data generation using APIs, reducing manual effort significantly.
+- Created Jira dashboards for data-driven project estimates and tracking.
+- Skilled in gathering functional specifications and bridging stakeholder communication.
+- Designed visual prototypes with HTML and CSS to enhance solution understanding.
 
 
 # Projects
  In this section you can get to know some of my personal projects.
+
+ ## [Data Exploration - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
+ - A data exploration on the game balance adjustments to assets sold to players using in-game currency, to understand the  biggest changes and how they could affect player buying decisions.
 
 ## [Fetal-Health-Study](https://github.com/matheusperches/Fetal-health-study)
 - A fetal health prediction model made during my Software Architecture course.
