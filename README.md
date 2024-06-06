@@ -19,14 +19,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
     - End date: 10/2022
 
  ## 💼 **Professional Summary**
-- Experienced Data Analyst with expertise in software quality assurance.
-- Developed and maintained Tableau dashboards for actionable insights.
-- Managed test data processes, ensuring integrity for 100+ manual test cases.
-- Proficient in SQL for data generation, validation, and complex queries.
-- Automated test data generation using APIs, reducing manual effort significantly.
-- Created Jira dashboards for data-driven project estimates and tracking.
-- Skilled in gathering functional specifications and bridging stakeholder communication.
-- Designed visual prototypes with HTML and CSS to enhance solution understanding.
+Highly skilled Data Analyst with extensive experience in data-driven decision making, data management, and project coordination. Proven track record in developing actionable insights through advanced data visualization and analysis techniques. Proficient in SQL, Tableau,  R Programming and various data automation tools. Demonstrates strong communication skills, effectively bridging the gap between technical and non-technical stakeholders. Recent completion of the Google Data Analytics Certificate, solidifying expertise in data analysis, visualization, and machine learning fundamentals.
 
 
 # 📝 Projects
