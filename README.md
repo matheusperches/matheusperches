@@ -19,7 +19,11 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
     - End date: 10/2022
 
  ## 💼 **Professional Summary**
-Highly skilled Data Analyst with extensive experience in data-driven decision making, data management, and project coordination. Proven track record in developing actionable insights through advanced data visualization and analysis techniques. Proficient in SQL, Tableau,  R Programming and various data automation tools. Demonstrates strong communication skills, effectively bridging the gap between technical and non-technical stakeholders. Recent completion of the Google Data Analytics Certificate, solidifying expertise in data analysis, visualization, and machine learning fundamentals.
+- Highly skilled Data Analyst with extensive experience in data-driven decision making, data management, and project coordination. 
+- Proven track record in developing actionable insights through advanced data visualization and analysis techniques. 
+- Proficient in SQL, Tableau,  R Programming and various data automation tools. 
+- Demonstrates strong communication skills, effectively bridging the gap between technical and non-technical stakeholders. 
+- Recent completion of the Google Data Analytics Certificate, solidifying expertise in data analysis, visualization, and machine learning fundamentals.
 
 
 # 📝 Projects
