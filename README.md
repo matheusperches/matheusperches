@@ -43,8 +43,12 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 
 - An auto installer made with C# for one of the teams I worked with.
 
-## [PlaygroundProj](https://github.com/matheusperches/PlaygroundProj)
-- An Unreal Engine 4 project I worked with passion.
+## [UE4 - Six Degrees of Freedom spaceship](https://github.com/matheusperches/PlaygroundProj)
+- An Unreal Engine 4 project in C++ about a flight controller for spaceships.
+
+## [UE4 - Inventory system](https://github.com/matheusperches/UE4-Inventory-Blueprints)
+
+- An Unreal Engine 4 project in Blueprints, creating an inventory system with lootables.
 
 ## Next projects
 
