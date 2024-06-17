@@ -49,8 +49,3 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 ## [UE4 - Inventory system](https://github.com/matheusperches/UE4-Inventory-Blueprints)
 
 - An Unreal Engine 4 project in Blueprints, creating an inventory system with lootables.
-
-## Next projects
-
-- To be added :) 
-
