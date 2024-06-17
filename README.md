@@ -11,18 +11,17 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 - Google Data Analytics Certificate
     - Completed on May 2024
 
-- Distributed Software Architecture at PUC Minas (Brazil)
-    - Graduate Degree
+- Postgraduate degree in Distributed Software Architecture at PUC Minas (Brazil)
+    - PostGraduate Degree
     - End date: 03/2024
-- Information Systems  at Uniara (Brazil)
-    - Bachelor Degree
+- Bachelor in Information Systems
     - End date: 10/2022
 
  ## 💼 **Professional Summary**
-- Highly skilled Data Analyst with extensive experience in data-driven decision making, data management, and project coordination. 
+- I am a highly skilled Data Analyst with extensive experience in data-driven decision making, data management, and project coordination. 
 - Proven track record in developing actionable insights through advanced data visualization and analysis techniques. 
 - Proficient in SQL, Tableau,  R Programming and various data automation tools. 
-- Demonstrates strong communication skills, effectively bridging the gap between technical and non-technical stakeholders. 
+- I've demonstrated strong communication skills, effectively bridging the gap between technical and non-technical stakeholders. 
 - Recent completion of the Google Data Analytics Certificate, solidifying expertise in data analysis, visualization, and machine learning fundamentals.
 
 
