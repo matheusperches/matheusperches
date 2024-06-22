@@ -1,11 +1,9 @@
 
 # Welcome to my Github.
 ## 🚀 About me
-I am passionate for breakthrough technology and science fiction. I enjoy Data Analysis and the power it gives to Machine Learning systems and humans to make sense of raw datal, turning it into something useful.
-
+I am passionate for breakthrough technology and science fiction. I enjoy data, simulations and coding. See my projects below!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-perches/)
-
 
 ## 🧠 Education and work experience
 - Google Data Analytics Certificate
