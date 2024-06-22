@@ -20,9 +20,9 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
 - I then made the decision to move towards a role that allows me to exercise my desire to code more directly, and my creative drive to build something that people enjoy, combining my software testing expertise with my passion for coding. Currently pursuing a job in the games industry.
 
 ## 🧪 **Tools and Technologies**
-- Testing and data experience: E2E testing (Tricentis qTest / Tosca), Postman, Tableau, R Programming
-- Programming and scripting: C++, C#, SQL, Javascript, HTML / CSS
-- Unreal Engine and CryEngine: Building fun projects that exercise my 3D Math knowledge and gameplay systems)
+- Testing and data experience: E2E testing (Tricentis qTest / Tosca), Postman, Tableau, R Programming;
+- Programming and scripting: C++, C#, SQL, Javascript, HTML / CSS;
+- Unreal Engine and CryEngine;
 
 # 📝 Projects
  In this section you can get to know some of my personal projects.
