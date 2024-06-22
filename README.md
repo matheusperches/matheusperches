@@ -15,12 +15,14 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
     - End date: 10/2022
 
  ## 💼 **Professional Summary**
-- I am a highly skilled Data Analyst with extensive experience in data-driven decision making, data management, and project coordination. 
-- Proven track record in developing actionable insights through advanced data visualization and analysis techniques. 
-- Proficient in SQL, Tableau,  R Programming and various data automation tools. 
-- I've demonstrated strong communication skills, effectively bridging the gap between technical and non-technical stakeholders. 
-- Recent completion of the Google Data Analytics Certificate, solidifying expertise in data analysis, visualization, and machine learning fundamentals.
+- I have worked in the Software Quality Analysis field for almost 4 years, with extensive experience in E2E testing, data-driven decision making and project coordination.
+- Have made the decision to move towards a role that allows me to exercise my desire to code more directly, and my creative drive to build something that people enjoy.
+- Worked in big international teams with cross functional collaboration. 
 
+## 🧪 **Tools and Technologies**
+- Testing and data experience: E2E testing (Tricentis qTest / Tosca), Postman, Tableau, R Programming
+- Programming and scripting: C++, C#, SQL, Javascript, HTML / CSS
+- Unreal Engine and CryEngine: Building fun projects that exercise my 3D Math knowledge and gameplay systems)
 
 # 📝 Projects
  In this section you can get to know some of my personal projects.
