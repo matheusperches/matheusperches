@@ -5,7 +5,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-perches/)
 
-## 🧠 Education and work experience
+## 📚 Education and work experience
 - Google Data Analytics Certificate
     - Completed on May 2024
 
@@ -14,7 +14,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
 - Bachelor in Information Systems
     - End date: 10/2022
 
- ## 💼 **Professional Summary**
+ ## 🔮 **Professional Summary**
 - I have worked in the Software Quality Analysis field for almost 4 years, with extensive experience in E2E testing, data-driven decision making and project coordination.
 - Have made the decision to move towards a role that allows me to exercise my desire to code more directly, and my creative drive to build something that people enjoy.
 - Worked in big international teams with cross functional collaboration. 
@@ -37,7 +37,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
 
 - An Unreal Engine 4 project in Blueprints, creating an inventory system with lootables.
 
- ## [Data Exploration - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
+## [Data Exploration - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
  - A data exploration on the game balance adjustments to assets sold to players using in-game currency, to understand the  biggest changes and how they could affect player buying decisions.
 
 ## [Fetal-Health-Study](https://github.com/matheusperches/Fetal-health-study)
