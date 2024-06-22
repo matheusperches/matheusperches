@@ -10,7 +10,6 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
     - Completed on May 2024
 
 - Postgraduate degree in Distributed Software Architecture at PUC Minas (Brazil)
-    - PostGraduate Degree
     - End date: 03/2024
 - Bachelor in Information Systems
     - End date: 10/2022
