@@ -5,19 +5,19 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-perches/)
 
-## 📚 Education and work experience
+## 📚 Education
 - Google Data Analytics Certificate
     - Completed on May 2024
-
-- Postgraduate degree in Distributed Software Architecture at PUC Minas (Brazil)
+- Distributed Software Architecture Specialization at PUC Minas (12 months - Brazil)
     - End date: 03/2024
 - Bachelor in Information Systems
     - End date: 10/2022
 
- ## 🔮 **Professional Summary**
-- I have worked in the Software Quality Analysis field for almost 4 years, with extensive experience in E2E testing, data-driven decision making and project coordination.
-- Have made the decision to move towards a role that allows me to exercise my desire to code more directly, and my creative drive to build something that people enjoy.
-- Worked in big international teams with cross functional collaboration. 
+ ## 🔮 **Professional journey and Experience**
+ - Always had a passion for games and learning how they worked. As a backer for the project Star Citizen, I watched all the development reports closely where they described their processes and it started to get me interested in knowing more and more. They developed a bug reporting tool for the project that everyone could use, so I started reporting bugs, adding videos and being active and interacting with the development team as a backer. I then got invited for the Evocati program and this inspired me to purpuse jobs in the Software Quality Assurance field as I enjoyed what I was doing for a hobby.
+- Began my journey in the Software Quality Analysis field in a local startup as an intern while pursuing my bachelor degree, having an amazing opportunity to participate in the project lifecycle from beginning to end. I assisted with requirement gathering, functional documentation, testing and shipping.
+- A year later got an opportunity to work on an international project in a much bigger company, an incredible chance to expand my horizons. For 2.5 years, I got extensive experience in E2E testing, automation, data-driven decision making, project coordination and project planning, while also having a chance to put my spoken English to good use in the workday.
+- I then made the decision to move towards a role that allows me to exercise my desire to code more directly, and my creative drive to build something that people enjoy. I can now combine my software testing expertise with my passion for coding, to build and test my own software with more confidence.
 
 ## 🧪 **Tools and Technologies**
 - Testing and data experience: E2E testing (Tricentis qTest / Tosca), Postman, Tableau, R Programming
