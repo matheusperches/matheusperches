@@ -28,7 +28,7 @@ I am passionate for breakthrough technology and science fiction. I enjoy Data An
 # 📝 Projects
  In this section you can get to know some of my personal projects.
 
-## [Crynengine - WIP](https://github.com/matheusperches/cryprototype)
+## [CryEngine - WIP Project (TBD)](https://github.com/matheusperches/cryprototype)
 - Work in progress C++ CEngine project.
  
 ## [UE4 - Six Degrees of Freedom spaceship](https://github.com/matheusperches/PlaygroundProj)
