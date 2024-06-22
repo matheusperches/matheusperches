@@ -28,14 +28,17 @@ I am passionate for breakthrough technology and science fiction. I enjoy data, s
  In this section you can get to know some of my personal projects.
 
 ## [CryEngine - WIP Project (TBD)](https://github.com/matheusperches/cryprototype)
-- Work in progress C++ CEngine project.
+- Using this project to learn how to use CryEngine.
  
 ## [UE4 - Six Degrees of Freedom spaceship](https://github.com/matheusperches/PlaygroundProj)
 - An Unreal Engine 4 project in C++ about a flight controller for spaceships.
+- Developed a fully customizable spaceship with individually tunable accelerations and a finite boost mechanic which can also be completely tweaked
+- Time attack gamemode which has the player capturing all 20 checkpoints to win.
 
 ## [UE4 - Inventory system](https://github.com/matheusperches/UE4-Inventory-Blueprints)
 
 - An Unreal Engine 4 project in Blueprints, creating an inventory system with lootables.
+- Followed guides and experimented different approaches, this was my entry point into game engines. 
 
 ## [Data Exploration - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
  - A data exploration on the game balance adjustments to assets sold to players using in-game currency, to understand the  biggest changes and how they could affect player buying decisions.
