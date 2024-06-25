@@ -47,9 +47,10 @@ In this section, you can get to know some of my personal projects.
 ---
 
 ## 🧪 Tools and Technologies
-- **Testing and data experience:** E2E testing (Tricentis qTest / Tosca), Postman, Tableau, R Programming;
 - **Programming and scripting:** C++, C#, SQL, JavaScript, HTML / CSS;
 - **Game Engines:** Unreal Engine, CryEngine;
+- **Development tools:** Jira, Git, Visual Studio;
+- **Testing and data experience:** E2E testing (Tricentis qTest / Tosca), Postman, Tableau, R Programming;
 
 ---
 
