@@ -18,10 +18,8 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 ---
 
 # 📝 Projects
-In this section, you can get to know some of my personal projects.
-
 ## [CryEngine - WIP Project (TBD)](https://github.com/matheusperches/cryprototype)
-- Using this project to learn how to use CryEngine.
+- Practicing 3D math with a fun 6DOF spaceship simulated with impulse generators and developing a new flight controller to make it more fun to play.
 
 ## [UE4 - Six Degrees of Freedom spaceship](https://github.com/matheusperches/PlaygroundProj)
 - An Unreal Engine 4 project in C++ about a flight controller for spaceships.
