@@ -18,8 +18,15 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 ---
 
 # 📝 Projects
-## [CryEngine - WIP Project (TBD)](https://github.com/matheusperches/cryprototype)
-- Practicing 3D math with a fun 6DOF spaceship simulated with impulse generators and developing a new flight controller to make it more fun to play.
+## [Unreal Engine 5 - Third Person extraction game (WIP)]
+- This project combines my previous studies into a single project with a gameplay loop involving travelling to different places on the map, killing enemies and bringing back the loot to the base to complete the mission.
+- Loot system (Collect / Drop / Transfer to containers back and forth)
+- Combat system (basic shooting and AI)
+- Mission system (gives an objective and counts it to complete when it was satisfied)
+
+## [CryEngine - Enhanced Flight Controller](https://github.com/matheusperches/cryprototype)
+- Practicing 3D math with a fun 6DOF spaceship simulated with impulse generators. This is a much improved version from my first flight system made in Unreal.
+- CryEngine always intrigued me, so I decided to learn the basics of the engine by doing this project. I am porting this work over back to Unreal to develop a more fleshed out game demo that combines on foot and vehicle gameplay with looting.
 
 ## [UE4 - Six Degrees of Freedom spaceship](https://github.com/matheusperches/PlaygroundProj)
 - An Unreal Engine 4 project in C++ about a flight controller for spaceships.
