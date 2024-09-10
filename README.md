@@ -19,7 +19,7 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 
 # 📝 Projects
 ## [Unreal Engine 5 - Third Person extraction game (WIP)]
-- This project combines my previous studies into a single project with a gameplay loop involving travelling to different places on the map, killing enemies and bringing back the loot to the base to complete the mission.
+- This project combines my previous studies into a single project with a gameplay loop involving travelling to different places on the map, killing enemies and bringing back the loot to the base to complete missions.
 - Loot system (Collect / Drop / Transfer to containers back and forth)
 - Combat system (basic shooting and AI)
 - Mission system (gives an objective and counts it to complete when it was satisfied)
