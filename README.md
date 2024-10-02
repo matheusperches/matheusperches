@@ -6,6 +6,14 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-perches/)
 
 ---
+## ⌨️ Work Experience
+
+- Quality Engineer, Wipro (06/2021 - 10/2023)
+    - Worked for a big US based client, performing requirement analysis, end-to-end test case design, ensuring bugs were resolved, and coordinating project priorities with stakeholders.
+    - Leveraged technologies such as SQL, Tricentis TOSCA (Web Automation) and Jira. 
+- Quality Analyst, MoveMais (02/2020 - 06/2021)
+    - Requirement analysis, test plan creation and defect management, as well as collecting feedback and planning the next feature iteration developers and architects.
+    - Leveraged technologies such as SQL, Jira, Postman (API testing) and programming with Javascript.
 
 ## 📚 Education
 - **Google Data Analytics Certificate**
