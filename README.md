@@ -26,6 +26,12 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 ---
 
 # 📝 Projects
+
+## [RSI-Launcher Detector - C#](https://github.com/matheusperches/RSILauncher-Detector) 
+- A Windows Application project (Background) to monitor program launches and terminations via WMI.
+- Creates Task Events automatically if not created.
+- Handles admin privileges when necessary.
+- Can be modified to monitor any other app.
 ## [Unreal Engine 5 - Third Person extraction game (WIP)]
 - This project combines my previous studies into a single project with a gameplay loop involving travelling to different places on the map, killing enemies and bringing back the loot to the base to complete missions.
 - Loot system (Collect / Drop / Transfer to containers back and forth)
