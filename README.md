@@ -36,7 +36,7 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 ## [Auto-Installer - .NET Framework](https://github.com/matheusperches/Auto-Installer)
 - An auto installer made with C# for one of the teams I worked with.
 
-## [Unreal Engine 5 - Third Person extraction game (WIP)]
+## [Unreal Engine 5 - Third Person extraction game (WIP)](https://github.com/matheusperches/TPProject)
 - This project combines my previous studies into a single project with a gameplay loop involving travelling to different places on the map, killing enemies and bringing back the loot to the base to complete missions.
 - Loot system (Collect / Drop / Transfer to containers back and forth)
 - Combat system (basic shooting and AI)
