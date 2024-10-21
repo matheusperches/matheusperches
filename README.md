@@ -36,10 +36,6 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 ## [Auto-Installer - .NET Framework](https://github.com/matheusperches/Auto-Installer)
 - An auto installer made with C# for one of the teams I worked with.
 
-## [Unreal Engine 5 - Third Person prototype](https://github.com/matheusperches/TPProject)
-- Complete loot system, including containers
-- Weapons system with animation blending (Aiming poses, reloading), hitscan checks, reloading and sounds.
-
 ## [Enhanced 6DoF Flight Controller - CE C++](https://github.com/matheusperches/cryprototype)
 - Made in CryEngine, a fun to fly customizable spaceship with simulated impulse generators.
 
