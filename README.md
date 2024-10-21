@@ -43,13 +43,13 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 ## [Enhanced 6DoF Flight Controller - CE C++](https://github.com/matheusperches/cryprototype)
 - Made in CryEngine, a fun to fly customizable spaceship with simulated impulse generators.
 
-## [R Programming Data Exploration - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
+## [ Data Exploration (R Programming) - Star Citizen 3.22 vs 3.23 Ship Price Comparison](https://github.com/matheusperches/sc_ship_prices_322_323)
 - A data exploration on the game balance adjustments to assets sold to players using in-game currency, to understand the biggest changes and how they could affect player buying decisions.
 
-## [Fetal Health Study](https://github.com/matheusperches/Fetal-health-study)
+## [Fetal Health Study - Python](https://github.com/matheusperches/Fetal-health-study)
 - A fetal health prediction model made during my Software Architecture course.
 
-## [Music Recommendation Model](https://github.com/matheusperches/MusicRecommendation)
+## [Music Recommendation Model - Python](https://github.com/matheusperches/MusicRecommendation)
 - A Machine Learning model to predict music preferences based on age and gender.
 
 ---
