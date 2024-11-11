@@ -28,8 +28,9 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 # 📝 Projects
 
 ## [Expenses Tracking App - ASP.NET MVC](https://github.com/matheusperches/SpendSmart)
-- A web app to track your expenses, features editing and deleting as well.
-- EntityFramework
+- A web app to track your expenses
+- Hosted in Azure
+- Leverages SQL database
   
 ## [Weather-Dashboard - ASP.NET MVC - WIP](https://github.com/matheusperches/Weather-aspnetmvc)
 - WIP App for checking the weather in different regions with some visuals based on the weather.
