@@ -31,9 +31,6 @@ I am passionate about breakthrough technology and science fiction. I enjoy data,
 - A web app to track your expenses
 - Hosted in Azure
 - Leverages SQL database
-  
-## [Weather-Dashboard - ASP.NET MVC - WIP](https://github.com/matheusperches/Weather-aspnetmvc)
-- WIP App for checking the weather in different regions with some visuals based on the weather.
 
 ## [RSI-Launcher Detector - .NET Core](https://github.com/matheusperches/RSILauncher-Detector) 
 - A Windows Application project (Background) to monitor program launches and terminations via WMI.
